@@ -38,3 +38,4 @@ const showHideKeys = () => {
 volumeSlider.addEventListener("input", handleVolume);
 
 keysCheck.addEventListener("click", showHideKeys);
+
